@@ -134,9 +134,10 @@ sap-treasury-payment-factory/
 * Python 3.9 or higher installed
 
 ### Step-by-Step
-1. Clone or navigate to the project directory:
-   ```powershell
-   cd "C:\Users\HP\.gemini\antigravity\scratch\sap-treasury-simulator"
+1. Clone the repository and navigate into the project directory:
+   ```bash
+   git clone https://github.com/prakush1/SAP-S-4HANA-Treasury-Payment-Factory.git
+   cd SAP-S-4HANA-Treasury-Payment-Factory
    ```
 2. Install dependencies:
    ```bash
@@ -167,9 +168,9 @@ Deploy this project on the web for free in under 2 minutes:
 2. **Deploy on Streamlit Cloud:**
    * Go to **[share.streamlit.io](https://share.streamlit.io/)** and log in with GitHub.
    * Click **"New App"**.
-   * Select your repository: `sap-treasury-payment-factory`, branch: `main`, file: `app.py`.
+   * Select your repository: `prakush1/SAP-S-4HANA-Treasury-Payment-Factory`, branch: `main`, file: `app.py`.
    * Click **"Deploy"**.
-   * You will receive a permanent, public cloud URL (e.g., `https://sap-treasury-payment-factory.streamlit.app`).
+   * You will receive a permanent, public cloud URL (e.g., `https://sap-s-4hana-treasury-payment-factory.streamlit.app`).
 
 ---
 
